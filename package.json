@@ -1,0 +1,23 @@
+{
+  "name": "com.mhs.npc",
+  "version": "0.0.1",
+  "displayName": "Adroit Studio MHS NPC",
+  "description": "WIP",
+  "keywords": [
+    "MHS 2.0",
+    "Adroit Studio"
+  ],
+  "category": "Template",
+  "author": {
+    "name": "Jonathan Westfall",
+    "url": "https://github.com/Shatter-Fantasy/com.mhs.npc"
+  },
+  "repository": {
+    "url": "https://github.com/Shatter-Fantasy/com.mhs.npc.git",
+    "type": "git"
+  },
+  "_upm": {
+    "changelog": "### Changed\n- WIP"
+  },
+  "unity": "2022.2"
+}
